@@ -1,0 +1,9 @@
+npm i express bcryptjs concurrently dotenv express-async-handler jsonwebtoken mongoose nodemon
+
+create routes/controllers
+1. create controllers
+2. add the controllers to routes
+3. mount routes to server.js
+
+create auth middleware
+useEffect redirect if logged in/out
